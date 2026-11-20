@@ -14,6 +14,14 @@ welcome to my GitHub profile!
 - Linux
 - Networking Fundamental
 ## My projects
-coming soon !
+### 1. Nmap Network Scanning
+[view
+Project](https://github.com/thankgod123435/nmap-network-scanning)
+### 2. Wireshark Network Analysis 
+[view
+project](https://github.com/thankgod123435/wireshark-network-analysis)
+###3. Linux Security Administration
+[view
+project](https://github.com/thankgod123435/linux-security-administration)
 ## My Goal
 To develop practical security skills and become a professional cybersecurity analyst.
