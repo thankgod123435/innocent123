@@ -20,7 +20,7 @@ Project](https://github.com/thankgod123435/nmap-network-scanning)
 ### 2. Wireshark Network Analysis 
 [view
 project](https://github.com/thankgod123435/wireshark-network-analysis)
-###3. Linux Security Administration
+### 3. Linux Security Administration
 [view
 project](https://github.com/thankgod123435/linux-security-administration)
 ## My Goal
